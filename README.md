@@ -13,3 +13,6 @@ button should change the theme when clicked!
 
 To change the colors (default: white & black) to your custom colors,<br>
 edit the colors array in "script.js" (line 18) as you want.
+
+If you need help or discover buggs,<br>
+feel free to contact me via discord (zManuu#9725).
