@@ -20,11 +20,11 @@ button should change the theme when clicked!
 
 # Create custom themes
 
-To create your own themes, you can use the constructor of 'theme'.
-  The parameters are used like so:
-  1.: background
-  2.: text
-  3.: util (hr, borderColor, ...)
+To create your own themes, you can use the constructor of 'theme'.<br>
+The parameters are used like so:<br>
+  1.: background<br>
+  2.: text<br>
+  3.: util (hr, borderColor, ...)<br>
   4.: name
 <br />
 <br />
