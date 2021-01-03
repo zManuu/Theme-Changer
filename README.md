@@ -1,7 +1,3 @@
-# Theme-Changer
-<br />
-<hr>
-
 # themeChanger-class
 <br >
 
@@ -10,7 +6,6 @@ to be changed when the<br>
 theme is changed, you must add the<br>
 class "themeChanger" to these elements.
 <br />
-<hr>
 
 # Change-theme button
 <br >
@@ -22,7 +17,6 @@ in the example looks like this:<br>
 Just replace "[" with "<" and "]" with ">" and your<br>
 button should change the theme when clicked!
 <br />
-<hr>
 
 # Create custom themes
 <br >
@@ -34,7 +28,6 @@ To create your own themes, you can use the constructor of 'theme'.
   3.: util (hr, borderColor, ...)
   4.: name
 <br />
-<hr>
 
 # Contact
 <br >
